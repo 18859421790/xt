@@ -105,5 +105,5 @@ theme: shoka
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/xt/xt.github.io.git
+  repository: https://github.com/18859421790/xt.github.io.git
   branch: master
